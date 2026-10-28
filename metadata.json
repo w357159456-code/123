@@ -1,0 +1,6 @@
+{
+  "name": "FoamGuard 塑膠發泡設備智慧報修與備料派工系統",
+  "description": "發泡設備一機一碼 QR Code 報修、多模態 AI 故障初判、ERP 零件 BOM 備料推薦與維修數位履歷平台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
